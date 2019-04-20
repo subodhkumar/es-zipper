@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Gzipper library for node.",
   "bin": {
-    "zip": "./bin/index.js"
+    "zip": "./index.js"
   },
   "main": "index.js",
   "scripts": {
