@@ -1,6 +1,6 @@
 {
   "name": "es-zipper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gzipper library for node.",
   "main": "index.js",
   "scripts": {
